@@ -1,0 +1,13 @@
+Video/*
+Audio/*
+*.pyc
+*.part
+*.mp4
+losses.txt
+warnings_logs.txt
+warning_logs.txt
+backups/*
+losses
+*.pt
+experimental_results/
+report.pdf
